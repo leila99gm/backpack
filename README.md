@@ -1,3 +1,3 @@
 # Leila Golmakani
 
-git course.
+“Part College” backpack course.
